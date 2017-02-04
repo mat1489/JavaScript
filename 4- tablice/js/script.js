@@ -15,3 +15,5 @@ var wiek = [];
 var wiekStudentow= [20,25,28];
 console.log(wiek);
 console.log(wiekStudentow);
+
+
